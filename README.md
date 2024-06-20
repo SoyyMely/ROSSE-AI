@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ROSSE IA\Rosse IA\imagenes\a.png" alt="Rosse logo" width="250"/>
+  <img src="imagenes\a.png" alt="Rosse logo" width="250"/>
 </p>
 
 # Proyecto Rosse AI
